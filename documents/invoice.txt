@@ -1,0 +1,15 @@
+INVOICE  
+Invoice #: 102345  
+Date: 28-May-2025
+
+Bill To:  
+Ratan   
+ratan@email.com
+
+Item                Quantity      Price  
+--------------------------------------------------  
+Python Course        1            ₹5000  
+Flask Workshop       1            ₹1500  
+
+Total: ₹6500  
+Payment Due: 03-June-2025

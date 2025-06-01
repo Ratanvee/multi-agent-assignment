@@ -1,0 +1,12 @@
+Ratan   
+Email: ratan@example.com  
+Phone: +91-9056318551
+
+Objective:  
+To obtain a position as a Machine Learning Engineer where I can apply my skills in Python, Flask, and AI.
+
+Skills:  
+- Python, Flask, FastAPI  
+- Machine Learning, Deep Learning  
+- HTML, CSS, JS  
+- SQL, Git, Docker  
